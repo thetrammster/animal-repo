@@ -17,7 +17,7 @@ p {
 #banner {
   width: 100%;
   background-image: url(images/landscape.jpeg);
-  height: 300px;
+  height: 200px;
   background-color: purple;
   background-position: center;
   position: sticky;
