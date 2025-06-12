@@ -2,6 +2,7 @@
 * Change Background to Image
 * Blur Background
 * Change Text Color
+* Change Text Font
 * Blur Text
 
 
