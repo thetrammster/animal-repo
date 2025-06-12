@@ -3,3 +3,8 @@ body {
     font-family: Arial, sans-serif;
     color: darkblue;
 }
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
